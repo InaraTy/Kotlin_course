@@ -14,3 +14,6 @@ fun main() {
         println("i = $i")
     }
 }
+fun main() {
+    println("Привет, мир!")
+}
